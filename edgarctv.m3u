@@ -1,0 +1,208 @@
+EXTM3U
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360046629273/hbo2.png" group-title="PREMIUN HBO",HBO 2
+http://45.35.34.42:25949/live/cyx-ED18F2D042E0a44fED97986CA356.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_XlurYqiPHWKo&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=55b254a4eb65608b342740904a166de5 
+
+#EXTINF:-2 tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360046629253/hbo.png" group-title="PREMIUN HBO",HBO
+http://45.35.34.42:25949/live/cyx-77A5D9654951a0fc826015EC4D3A.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_0P4jCBxAQaY9&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=9f7ab352fb0eaddfb9e9a6de093dc75a 
+
+#EXTINF:-3 tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360045770414/hbo-plus.png" group-title="PREMIUN HBO",HBO plus
+http://45.35.34.42:25949/live/cyx-D011F4D64A33a2bfA18282ECE095.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_uqoD7UjBwacz&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=a0513f97041f9bb5ef12703076db06a7 
+
+#EXTINF:-4 tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360046629313/hbo-signature.png" group-title="PREMIUN HBO",HBO Signature
+http://45.35.34.42:25949/live/cyx-D36A8B244257bb7e0DC9C32367B9.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_0FiqCKjblXlI&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=8872ce2b30516584a9c553683808819a 
+
+#EXTINF:-5 tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360046629293/hbo-family.png" group-title="PREMIUN HBO",HBO Family
+http://45.35.34.42:25949/live/cyx-C50652A740C0aa13A031A19DE00A.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_FfpkPc04fdEo&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=92c2a709997d6801ec8882268ed4657d 
+
+#EXTINF:-6 tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360056464934/hbo-xtreme.png" group-title="PREMIUN HBO",HBO XTREME
+http://45.35.34.42:25949/live/cyx-8D2C71EA49B990024E5B7639F687.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_8xLJ7FopzcRM&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=3536b5cfb89a202df65675109f5f9720 
+
+#EXTINF:-7 tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360057355693/hbo-mundi.png" group-title="PREMIUN HBO",HBO MUNDI
+http://45.35.34.42:25949/live/cyx_pNtESXFQD0GgaA3Gw6LqyktHiEDyimlF.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_z9aoKur96ouV&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=0eecfc6c6ef2a0f5277f14b517a8efc2 
+
+#EXTINF:-8 tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360056464914/hbo-pop.png" group-title="PREMIUN HBO",HBO POP
+http://45.35.34.42:25949/live/cyx-173876F14D39919cFD748A7FA7E4.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_sKeY5zK273cy&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=e4aca4da6325c074671b8691f94ae0e4 
+
+#EXTINF:-9 tvg-logo="https://help.foxplay.com/hc/article_attachments/360087222631/series_2.png" group-title="ST☆R PREMIUN",ST☆R SERIES
+http://45.35.34.42:25949/live/cyx-AFDE3A194160af44F2876C2569F3.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_x4Acw0DGHwQ&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=f14671fc2cc322ab42d1f4a3e2dfd699 
+
+#EXTINF:-10 tvg-logo="https://help.foxplay.com/hc/article_attachments/360087162612/action_2.png" group-title="ST☆R PREMIUN",ST☆R ACTION
+http://45.35.34.42:25949/live/cyx-1038D98D4463b9a797AA0C7E0F76.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_kBghX25UIEqH&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=aa9d0d45eef9b6262ab9eaca95a62b87 
+
+#EXTINF:-11 tvg-logo="https://help.foxplay.com/hc/article_attachments/360087222711/comedy_2.png" group-title="ST☆R PREMIUN",ST☆R COMEDY
+http://45.35.34.42:25949/live/cyx-740D02D04B73b07f15C899D0CAD0.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_HQVfXhdy232P&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=577005fa59dd3309e186ab8f581f43fe 
+
+#EXTINF:-12 tvg-logo="https://help.foxplay.com/hc/article_attachments/360087162632/cinama_2.png" group-title="ST☆R PREMIUN",ST☆R CINEMA
+http://45.35.34.42:25949/live/cyx-9F402D9A434E8d6c336B61511A4E.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_o0Rf9cfv32kb&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=0833ffd788e73f5b46daf3fe7eda2ad1 
+
+#EXTINF:-13 tvg-logo="https://help.foxplay.com/hc/article_attachments/360087162692/classics_2.png" group-title="ST☆R PREMIUN",ST☆R CLASSICS
+http://45.35.34.42:25949/live/cyx-565A038C4C129c1cEC87E31A3718.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_Hi3uzNALaha8&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=b945b631e894b075805597b91cf6577a 
+
+#EXTINF:-14 tvg-logo="https://help.foxplay.com/hc/article_attachments/360087223111/hits_2.png" group-title="ST☆R PREMIUN",ST☆R  HITS 
+http://45.35.34.42:25949/live/cyx-F5ECCD9A445Cb273359428E1C581.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_QvftlVTYXbYN&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=a2038f4ad686f6e874f04ea5f6302dda 
+
+#EXTINF:-15 tvg-logo="https://help.foxplay.com/hc/article_attachments/360087163252/fun_2.png" group-title="ST☆R PREMIUN",ST☆R FUN
+http://45.35.34.42:25949/live/cyx-3654EEB342A1bb47D9360BE9D7F7.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_4TYxH0UCRuM7&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=670f38d8a2187e64aa12e8507220c1a0 
+
+#EXTINF:-16 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/1gkBr6VyAT0FChCs337kCF/3226b03f052f4a42995b22f979141633/canal_tigo_sports.png?q=70" group-title="DEPORTE",TIGO SPORTS
+http://45.35.34.42:25949/live/cyx_rGbsBhRRHoYroHUj.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_XAoeco3xO6u&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=e3a40ebcea8744b60edd58cac7f4c002 
+
+#EXTINF:-17 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es"ENTRETENIMIENTO",S☆AR CHANNEL
+http://45.35.34.42:25949/live/cyx-A5372B8044F289b47713B35347DA.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_Y84Coz5qccwG&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=d619f796816bf0d330abbce50044de61 
+
+#EXTINF:-18 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/5qK8rhvtC0XT1fz8P5Yr5e/16a4b9a206da8bb588b6dcecf22ddef8/canal_tnt.png?q=70" group-title="ENTRETENIMIENTO",TNT
+http://45.35.34.42:25949/live/cyx-93C15D1244B5a536244D1FBA496A.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_OPaSGQXBYLo5&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=7527c711d51f7ed793ae76e650b5dd43 
+
+#EXTINF:-19 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/5D0pC9UIUGydoM3jhgkOE5/906b3d1e61b5992a8918faf6afee78c3/canal_space.png?q=70" group-title="ENTRETENIMIENTO",SPACE
+http://45.35.34.42:25949/live/cyx-47B0FF9B40ACa67f16D6720511BC.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_MjaSR2D74Nsa&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=d83625c9c2d0485ead05a159166fd615 
+
+#EXTINF:-20 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/1Dm4NGSVeppyTumiygDNb3/662834e9e5878bb98d1b1509d867b663/ic-canal-fx.png?q=70" group-title="ENTRETENIMIENTO",FX
+http://45.35.34.42:25949/live/cyx-7A85E09E45CEaee61073DF911AEC.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_eW3FEzscc7eQ&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=35dd62c23a59432ce1d3fec04d5b822e 
+
+#EXTINF:-21 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2Q0UTitQ1SkUgtKnYNqs9e/d8831326b9fa5397b4989618e1da1371/canal_cinecanal.png?q=70" group-title="ENTRETENIMIENTO",CINECANAL
+http://45.35.34.42:25949/live/cyx-222C0D274909bcf12CEACB4D8AA7.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_NWea5kXRC264&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=70d5a3aad818c163dbda1cf63d7edf39 
+
+#EXTINF:-22 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/1XEulCu6bli7iyfk3Echiz/13d71e824554c9b03f94d4ae0292e13b/ic-canal-fx-movies.png?q=70" group-title="ENTRETENIMIENTO",FXM
+http://45.35.34.42:25949/live/cyx-B820825D4166b5576021B71D7758.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_AylB501ETgoK&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=65926d1c9fe1a8ef7fb48099100f8af4 
+
+#EXTINF:-23 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2VUJ2iszwUybgTvsByvIIw/1cf9d6dac964a9bd89ff67a8e0bd16ef/ic-canal-discovery-kids.png?q=70" group-title="IFANTIL",DISCOVERY KIDS
+http://45.35.34.42:25949/live/cyx-B820825D4166b5576021B71D7758.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_AylB501ETgoK&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=65926d1c9fe1a8ef7fb48099100f8af4 
+
+#EXTINF:-24 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/7iyTCBHZ29n78NJ4emgABy/129711a82e22dbd99ea7308d397bd7b5/ic-canal-cartoon-network.png?q=70" group-title="IFANTIL",CARTOON NETWORK
+http://45.35.34.42:25949/live/cyx-FCB2C1F34018a709EE178AF0E2ED.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_zRji1bacSOBo&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=9249e6176a60572d95f7cf96f53bba31 
+
+#EXTINF:-25 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/3afWZ94bAJYvmNPoEzH4bz/501318cc55ddbb284a45456ad3fa36c0/ic-canal-nickelodeon.png?q=70" group-title="IFANTIL",NICKELODEON
+http://45.35.34.42:25949/live/cyx-00B97C5E46819c570E66F7B0A8E8.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_2JVYvb8OpPuB&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=543c9a4c0e3385d9204eaebd4d01825c 
+
+#EXTINF:-26 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/WLyekrhGlhltJHQFJE1D3/dec2da2d8476d80c26876b75ec1252bd/canal_disney.png?q=70" group-title="IFANTIL",DISNEY CHANNEL
+http://45.35.34.42:25949/live/cyx-9B3C427947568e10F035FEF345D2.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_YtKc7tX8VpTf&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=65ba64673711c084b875303657043569 
+
+#EXTINF:-27 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/cRl3BgTIuiyKknxehWXcs/ddada091e264d3ce82a2e2251c89219a/ic-canal-disney-jr.png?q=70" group-title="IFANTIL",DISNEY JR
+http://45.35.34.42:25949/live/cyx-6E0FA60343B5b52b1E776CE63DFF.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_FNg2jihpzcAV&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=7cadc0a3275d5cff37b098e939a32c0d 
+
+#EXTINF:-28 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2wokXIMzFIt3plxmAd3u2H/0e00f6850bd3cb0a274a53abcfb7b0b4/ic-canal-disney-xd.png?q=70" group-title="IFANTIL",DISNEY XD
+http://45.35.34.42:25949/live/cyx-3BDE555C42DE8cd499880F0D823B.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_GAXAhITqfUdh&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=27cd49cae48ab69d219340e75001859c 
+
+#EXTINF:-29 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/3mIVdbzwHlddkHd0HExP1g/4b4d5ffa6de0d5e0920261a8965c3d7a/canal_tooncast.png?q=70" group-title="IFANTIL",TOONCAST
+http://45.35.34.42:25949/live/cyx-7EBC4DA44AB3b2beDC8D9ED722EA.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_chVjEBzINB8&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=63f1cca659e5522ad6fa9097d4ed4c0d 
+
+#EXTINF:-30 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/5eGBGAmX0uyEwQPSMUPWy6/d9666a9e345746b041d8ca114b5fc764/canal_nickjr.png?q=70" group-title="IFANTIL",NICK JR
+http://45.35.34.42:25949/live/cyx-52A1DD6C4B5Bbccb63A7D854A259.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_aBVg6egoRfCs&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=73c2dd717ccc92a13e5cdb1b4c6ce7cd 
+
+#EXTINF:-31 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/4KzL4Wto4Z26ehaYyyRQ3G/fbb622e212ad61446cd10d06d2a32dd0/C9n_2x.png?q=70" group-title="NOTICIAS",C9N
+http://45.35.34.42:25949/live/cyx_CxjXGf9L3WdXLpBBP.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_8cMDIOQIopvH&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=2808208ce639978b10c6942b49e55d73 
+
+#EXTINF:-32 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png" group-title="RELIGIOSO",ENLACE
+http://45.35.34.42:25949/live/cyx_PKB7SiMBUAOA.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_slTOM1wHtMuR&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=830f50673f7fe6b482ae8cabae3c69a7 
+
+#EXTINF:-33 tvg-logo="https://e1.pngegg.com/pngimages/887/112/png-clipart-tv-channel-icons-cinemax-black-cinemax-logo-thumbnail.png" group-title="ENTRETENIMIENTO",CINEMAX
+http://45.35.34.42:25949/live/cyx-C9EB0B2644979328E598EAFED311.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_C4XMSQdIUva&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=eb52ac842efb24a739b8b308e3f5f64f 
+
+#EXTINF:-34 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/4eVetrXyznirROuKd0EraZ/5bfe69b9c3529f13ea432a73302da5f2/canal_telefuturo.png?q=70" group-title="NOTICIAS",TELEFUTURO
+http://45.35.34.42:25949/live/cyx_M29LhALkORmT6te.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_qq38FQAXR4Jv&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=ce3a9fc18769f0aa1b4c0f452885a706 
+
+#EXTINF:-35 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2IUo6Yaw6bVP29wPlcUsXS/01a81ddddc1f99f423fd646390de7f6e/FOX_Sports_2x.png?q=70" group-title="DEPORTE",FOX SPORTS 1
+http://45.35.34.42:25949/live/cyx-1980EA884BA3b128267444A96B53.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_w2PYvfSY1D6w&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=7bd82357366e9f6cd2592050c7841936 
+
+#EXTINF:-36 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2PS1Js3pFZzZ66A3gnktzJ/55c13255ffa5009ad19fa474a8521cf8/canal_fox_sports2.png?q=70" group-title="DEPORTE",FOX SPORTS 2
+http://45.35.34.42:25949/live/cyx-4071500F4EA58a2f69C5D555591A.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_4jeJC9cybYbD&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=66c6500f27ae3f197f0f9dda688e5a3c 
+
+#EXTINF:-37 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/4jYPkIrzSlICG3yBagp8B3/bdf3c114654bf479383bcf6ae9d129ee/canal_fox_sports3.png?q=70" group-title="DEPORTE",FOX SPORTS 3
+http://45.35.34.42:25949/live/cyx-F9A673F047C7923d0C28D1989EA1.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_5pWofGQJFdEd&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=4ab70500e937b012487920b1eb3097e3 
+
+#EXTINF:-38 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2ONjC6lpLhBUhilRDHiuYc/c8f3c3a6cc7ddd33e6d0369e2f04e2f8/canal_espn.png?q=70" group-title="DEPORTE",ESPN
+http://45.35.34.42:25949/live/cyx-5526D76F418Dadaa12075D684403.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_WgzYE3aDy3sK&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=da74ec1e035de2dd2569dbf75bc7b404 
+
+#EXTINF:-39 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/7F767oHnyqS0r9Y0c2CGwI/0ce2d61f782fd94fcfd0f4ae52ffde4a/canal_espn2.png?q=70" group-title="DEPORTE",ESPN 2
+http://45.35.34.42:25949/live/cyx-9A00459B4CFAba10FC93719718F1.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_ToxBxc8d2kD6&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=102dde63af208b6020825ba6b6596548 
+
+#EXTINF:-40 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/179zYY2QCODAFem1ESklZP/72716932ab41a45f6769ee27e8d1f824/canal_espn3.png?q=70" group-title="DEPORTE",ESPN 3
+http://45.35.34.42:25949/live/cyx-5E609FF8444Eb95b572A9B300767.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_wIM5yDx4ALc1&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=d4e10d86926c24872307a216eeae815f 
+
+#EXTINF:-41 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/5qqtj84mVGDZXfR7bk2xJm/291374be56e8185b3246605a3702fc72/ic-canal-tbs.png?q=70" group-title="ENTRETENIMIENTO",TBS
+http://45.35.34.42:25949/live/cyx-CF2B96E9401187e1C35E632921AC.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_dD4WngkdjL1W&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=26f9cd541405d5c2a37f4af8f28df6e0 
+
+#EXTINF:-42 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/6hYaj5Bv1rmqA6h4en7z1w/2b9c327829900b94fd15b66eb7a74283/ic-canal-tcm.png?q=70" group-title="ENTRETENIMIENTO",TCM
+http://45.35.34.42:25949/live/cyx-C946635948D0bf2f1493EA80946B.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_wp9cQ9qsbJgP&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=0dbd53fe1f595c4816a783ffd2aabe33 
+
+#EXTINF:-43 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/1o93v7hHhAzJ2A6PRFG217/fbde2e67abd17fbe1630991313b79c27/ic-canal-sony.png?q=70" group-title="ENTRETENIMIENTO",SONY
+http://45.35.34.42:25949/live/cyx-98FC7A574210bc485B7DE67C5538.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_nPgl43bawTvV&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=1a996c38cc702c7e699fbebff76ed147 
+
+#EXTINF:-44 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/3S0G0hnw0GvAaHfbXcFDBe/b2835fafce8c7b3f2c1f79c381b2ec5f/canal_warner.png?q=70" group-title="ENTRETENIMIENTO",WARNER
+http://45.35.34.42:25949/live/cyx-2FB6F70345E6b1743EAF2BAACB01.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_BGjH7XQB0Yyr&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=ba75b293979a5504729bef47579be07c 
+
+#EXTINF:-45 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/5dwULrGd9E0tVubQaaPvMs/6ae2a18ea4679355c40b51250ffaf88c/ic-canal-a-e.png?q=70" group-title="ENTRETENIMIENTO",A&E
+http://45.35.34.42:25949/live/cyx-7BCA096543B49d9fF5E93008926A.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_CKWodSuwQqVK&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=4ccd0f634e08b67b24f06b0f94373828 
+
+#EXTINF:-46 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/pbTvbbQu3E9aSI3ZVzxyB/7fa842fe882f77811ea24bb84ec55217/ic-canal-axn__1_.png?q=70" group-title="ENTRETENIMIENTO",AXN
+http://45.35.34.42:25949/live/cyx-45A8419F4A50afa2061838104FA8.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_VBz7QzWhsID3&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=2fb80fdac28d206da3b6f23a38841713 
+
+#EXTINF:-47 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/3AudqEPhMAs7cmYfUy9Smj/84658e206f7e3529c52c2383346db3d4/ic-canal-golden.png?q=70" group-title="ENTRETENIMIENTO",GOLDEN
+http://45.35.34.42:25949/live/cyx-35C119474852b75b7F3B048F537B.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_JBMRksmnVStF&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=027b56df3a35cf84fbf9685f288866db 
+
+#EXTINF:-48 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/6l9ZDO72dJzLfgFQFDphIY/9b13ebd64bee8ca01accdca30d252e11/canal_golden_edge.png?q=70" group-title="ENTRETENIMIENTO",GOLDEN  EDGE
+http://45.35.34.42:25949/live/cyx_2IJYUtbF6QnJ5lLS.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_5TCaxfB9nECB&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=6c85241860077939de49a0fea9cc6ce2 
+
+#EXTINF:-49 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/7A5Qr0i2n291NDPTrXhKpC/338f94633df9631acefb231c02ae9d91/ic-canal-hyh.png?q=70" group-title="TV",HYHDISCOVERY
+http://45.35.34.42:25949/live/cyx-B935D55A468F9eb918DA05796938.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_AgkAMt6usozG&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=c223390516cefb274ef165b3bfe0e0fb 
+
+#EXTINF:-50 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/1ExjmFLDdEu2QfBu1BCyLa/a8f88c6042671df50bfd6838ab4a9c56/ic-canal-discovery-channel.png?q=70" group-title="TV",DISCOVERY CHANNEL
+http://45.35.34.42:25949/live/cyx_JEiESMNzk4ur464U.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_aPIRXyOEHFIF&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=c5df4e9101f0e6b034087f2ba2e2f791 
+
+#EXTINF:-51 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/3AIvsxOkiOVpy6RB3onqbv/81edad3b0197dfa3a0593bf81176f770/canal_animal_planet.png?q=70" group-title="TV",ANIMAL PLANET
+http://45.35.34.42:25949/live/cyx-DC112CF245F1b821EACF9B31649E.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_xlxMs9QvIw3&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=0adc3270172ab7690821e667da0fc2cb 
+
+#EXTINF:-52 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/3ARc1JIUua2xoCHKCtPbKV/d6718b2052b9e8a1cc95bac2b88d0e57/canal_natgeo.png?q=70" group-title="TV",NATGEO
+http://45.35.34.42:25949/live/cyx-18BE0AAB44FCbd6f87B11C39FC00.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_S2rD6Rlg7nV1&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=c3410b26b0b5a57397aed49c365461a7 
+
+#EXTINF:-53 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/7brzRYyS9lLcufyodmgole/56f123db1b66c4b5155d4416df21f60d/ic-canal-history.png?q=70" group-title="TV",HISTORY CHANNEL
+http://45.35.34.42:25949/live/cyx-848FCA984BF8bdf324636E429E4F.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_aEUTUWU3SA9A&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=e2f5bc4924969b23cf7b8ef9289705f7 
+
+#EXTINF:-54 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/6NvAh4nPDWtos7q0TPeuuV/96e15ef80c5b6288f03e9d1b21e2726f/ic-canal-turbo.png?q=70" group-title="TV",DISCOVERY TURBO
+http://45.35.34.42:25949/live/cyx-EF1E332C42F69c660AAD67328710.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_N8gB269U3Kwd&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=74b4c978509932504f752b299843d257 
+
+#EXTINF:-55 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/1d5TvqkZuZR0mRAAziPZT2/58dd08ee511336e0449cbfddfe269525/ic-canal-boomerang.png?q=70" group-title="IFANTIL",BOOMERANG
+http://45.35.34.42:25949/live/cyx_UIZrbchizOXCRfCp.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_EUfYfLAqI0YG&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=ac0189418f6600a7906f962ae7b883ca 
+
+#EXTINF:-56 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/JnUXuMlwu0oP5kYLYWIxq/05beae09f5afdc475a0369566dc649e8/canal_tnt.png?q=70" group-title="ENTRETENIMIENTO",TNT SERIES
+http://45.35.34.42:25949/live/cyx-B2F1847E4A31acd511AA01D33AE8.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_TMb8rv2DnMPj&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=a8b64473038a0659ffedb39ea68aafd6 
+
+#EXTINF:-57 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/5x8tC96YS6SQ2qnvWdM3py/29f6a5e41a9f78d0658cb3b58c3f1541/canal_natgeokids_hd.png?q=70" group-title="IFANTIL",NATGEO KIDS
+http://45.35.34.42:25949/live/cyx-048074CD480Fa32a124B4114C228.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_7jfFgfJX6eMX&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=beebf011661df118842d6ccde4205cc0 
+
+#EXTINF:-58 tvg-logo="https://spng.pngfind.com/pngs/s/479-4795189_starz-encore-suspense-starz-encore-suspense-logo-hd.png" group-title="ENTRETENIMIENTO",STARZ SUSPENSE
+http://45.35.34.42:25949/live/cyx_MCGNfLq1hySBplY8K.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_1S1DGLx4U4UY&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=a7888ae49806015f494a7011f0782330 
+
+#EXTINF:-59 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="ENTRETENIMIENTO",STARZ WESTERNS
+http://45.35.34.42:25949/live/cyx_3Hlde40eIZ3LCC81zH.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_xnHvum412zOF&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=8ba42e0ca69dd37134320adfef0b72ab 
+
+#EXTINF:-60 tvg-logo="https://c3.klipartz.com/pngpicture/83/1004/sticker-png-tv-channel-icons-pack-starz-edge-black-thumbnail.png" group-title="ENTRETENIMIENTO",STARZ EDGE
+http://45.35.34.42:25949/live/cyx_ZG6Z3r8JIYxmG.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_SHSvj0e32gUC&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=c548aa2ae0090569e2c9453d74e3ce00 
+
+#EXTINF:-61 tvg-logo="https://e7.pngegg.com/pngimages/515/266/png-clipart-starz-encore-television-channel-dish-network-suspense-television-text.png" group-title="ENTRETENIMIENTO",STARZ ACTION
+http://45.35.34.42:25949/live/cyx_UFIkB9X58Btz0ncP.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_NAJLSgh7cu9X&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=c6bbdd46a4c018301cb317d6709eb309 
+
+#EXTINF:-62 tvg-logo="https://c3.klipartz.com/pngpicture/617/172/sticker-png-tv-channel-icons-pack-starz-comedy-black-thumbnail.png" group-title="ENTRETENIMIENTO",STARZ COMEDY
+http://45.35.34.42:25949/live/cyx_OHvcVrdJpXIh3CToe.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_Y5rTmnSeB080&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=5f5c4536e8cdf5033c2b635696811926 
+
+#EXTINF:-63 tvg-logo="https://e7.pngegg.com/pngimages/985/189/png-clipart-starz-encore-television-channel-starz-distribution-edge-miscellaneous-television.png" group-title="ENTRETENIMIENTO",STARZ CINEMA
+http://45.35.34.42:25949/live/cyx_R02suxh5Ox0XZlQ.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_M1tek8vhPtT&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=80a4174f38086762518668e6b3e8fd14 
+
+#EXTINF:-64 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1280px-Starz_In_Black_logo.svg.png" group-title="ENTRETENIMIENTO",STARZ BLACK
+http://45.35.34.42:25949/live/cyx_ZDZZTf82ZHrA2c1.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_3eEPmAXzWAmz&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=c919bcc69a85392fa696c447154e2390 
+
+#EXTINF:-65 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-classic.png" group-title="ENTRETENIMIENTO",STARZ CLASSIC
+http://45.35.34.42:25949/live/cyx_M4xRF4hctzPDyvs.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_iJsuWoSdKUx&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=eaddb6eafa7df553c0545574dde1b472 
+
+#EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Starz_2008.png" group-title="ENTRETENIMIENTO",STARZ OESTE
+http://45.35.34.42:25949/live/cyx_DtcNb2qElFiGGUx.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_NouKynJX12QW&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=c6b335a2a3a82546a6ffea50c98eb473 
+
+#EXTINF:-67 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/ufc-logo-2-1.png" group-title="DEPORTE",UFC
+http://45.35.34.42:25949/live/cyx_QKeGrrrM9BB7Y6.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_GR4YbgKu9ge3&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=49f61f09a43ff9859d23ebf3ec0c06f3 
+
+#EXTINF:-68 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="ENTRETENIMIENTO",GOLDEN PREMIER
+http://45.35.34.42:25949/live/cyx-1172163846BA854fB6073CFA9BE0.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_mIKO9Ll7p8t2&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=5ffa937e12f1dd752461ff98236c1948 
+
+#EXTINF:-69 tvg-logo="https://www.thesportsdb.com/images/media/logo/wqqpuy1437611123.png" group-title="DEPORTE",COMBATE
+http://45.35.34.42:25949/live/cyx-53BA6AC042449084DC9E8C98C362.ts?user_id=43628978&dev_id=b554d874c5d4f9ee4db214217affe87a&trans_id=RmPjv7dlOeoX_lYJrCt3NV0gw&dead_time=1621646251&app_id=com.mobile.telelatinomobile&host=45.35.34.42:25949&app_ver=30802&client_ip=45.239.44.165&auth_id=43628978_com.mobile.telelatinomobile&token=b57fcaeaa33ee7bfde11f0d1488dfcdc
